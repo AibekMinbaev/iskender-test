@@ -5,7 +5,7 @@ function BestSaleItem({title, price, instock, pair, img_url}){
     const [count, setCount] = useState(0);
 
     const minusItem = () => {
-        setCount(count - 1);
+        setCount(Math.max(count - 1, 0));
     }
 
     const addItem = () =>{
