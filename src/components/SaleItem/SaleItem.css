@@ -1,0 +1,98 @@
+.sale-item-wrapper{
+    padding: 12px;  
+}
+
+.sale-item{
+    width: 175px;
+    height: 341px;  
+    flex-shrink: 0; 
+    margin: 0px 5px; 
+    border-radius: 8.291px;
+    border: 1.083px solid #FFF;
+    background: #FFF;
+} 
+
+.img_url{
+    cursor: pointer;
+}
+
+.sale-item-title{
+    width: 175px;
+    height: 51px; 
+    color: var(--Greyscale-Black-90, #1A1919);
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    margin: 0; 
+}
+
+.price-container{
+    display: flex; 
+    align-items: baseline;
+    margin: 0;  
+}
+
+.new-price{
+    color: #F00;
+    font-family: Gilroy;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 0; 
+
+}
+
+.old-price{
+    color: #808080;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: line-through;
+    margin-left: 10px;
+    margin-top: 0; 
+    margin-bottom: 0;
+}
+
+.instock{
+    color: var(--green, #82CF6F);
+    font-family: Gilroy;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.pair{
+    color: #3286C2;
+    font-family: Gilroy;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cnt-container{
+    display: flex; 
+    justify-content: space-between;
+}
+
+.minus-icon, .add-icon{
+    cursor: pointer;
+}
+
+.couter{
+    color: #000;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

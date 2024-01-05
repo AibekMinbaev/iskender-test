@@ -1,0 +1,109 @@
+.footer{
+    width: 1440px;
+    height: 564px;
+    flex-shrink: 0;
+    padding-top: 80px; 
+    background: linear-gradient(107deg, #3186C3 6.46%, #004F86 68.08%);
+}
+
+.inner-footer{
+    width: 1240px; 
+    margin: 0 auto; 
+}
+
+
+.footer-logo{
+    width: 183.599px;
+    height: 51px;
+    flex-shrink: 0;
+}
+
+.slogan{
+    width: 230px;
+    
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 21px */
+}
+
+.appstore{
+    width: 143.75px;
+    height: 46px;
+    flex-shrink: 0;
+    margin-right: 10px;
+    cursor: pointer;
+} 
+
+.footer-item{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0 auto;
+}
+
+.footer-item-title{
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer-line{
+    width: 1240px;
+    height: 1px;
+    flex-shrink: 0;
+
+    background: linear-gradient(107deg, #3186C3 6.46%, #004F86 68.08%);
+}
+
+.footer-bottom-text{
+    color: var(--Transparent-white, rgba(255, 255, 255, 0.50));
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
+
+    color: var(--Transparent-white, rgba(255, 255, 255, 0.50));
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.inner-footer-items{
+    display: flex;
+}
+
+.region{
+    color: #E0E0E0;
+    font-family: Gilroy;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.street{
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.company p{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

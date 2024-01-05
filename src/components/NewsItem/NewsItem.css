@@ -1,0 +1,10 @@
+.news-item{
+    width: 401.69px;
+    height: 181.48px;
+    flex-shrink: 0; 
+    margin: 10px; 
+
+    border-radius: 11.066px;
+    background: #F0F9FF; 
+    /* background-image: src("/images/illustration.svg");  */
+} 

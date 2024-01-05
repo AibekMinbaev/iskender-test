@@ -1,0 +1,87 @@
+[
+    {
+      "title": "Ванны",
+      "amount": 3000,
+      "img_url": "/images/1.png"
+    }, 
+
+    {
+        "title": "Смесители",
+        "amount": 3000,
+        "img_url": "/images/2.png"
+      }, 
+    
+      {
+        "title": "Вытяжки для кухни",
+        "amount": 3000,
+        "img_url": "/images/3.png" 
+
+      },
+
+      {
+        "title": "Кухонные мойки",
+        "amount": 3000,
+        "img_url": "/images/4.png"
+      }, 
+
+      {
+        "title": "Другие",
+        "amount": 3000,
+        "img_url": "/images/5.png"
+      },
+
+      {
+        "title": "Унитазы",
+        "amount": 3000,
+        "img_url": "/images/6.png"
+      }, 
+
+      {
+        "title": "Вытяжки для кухни",
+        "amount": 3000,
+        "img_url": "/images/7.png"
+      }, 
+
+      {
+        "title": "Умывальники",
+        "amount": 3000,
+        "img_url": "/images/8.png"
+      }, 
+
+      {
+        "title": "Полотенцесушители",
+        "amount": 3000,
+        "img_url": "/images/9.png"
+      },  
+
+      {
+        "title": "Водонагреватели",
+        "amount": 3000,
+        "img_url": "/images/10.png"
+      },
+
+      {
+        "title": "Душевые",
+        "amount": 3000,
+        "img_url": "/images/11.png"
+      }, 
+
+      {
+        "title": "Водонагреватели",
+        "amount": 3000,
+        "img_url": "/images/12.png"
+      },  
+
+      {
+        "title": "Водонагреватели",
+        "amount": 3000,
+        "img_url": "/images/13.png"
+      },
+
+
+      {
+        "title": "Полотенцесушители",
+        "amount": 3000,
+        "img_url": "/images/14.png"
+      }
+]

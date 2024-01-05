@@ -1,0 +1,58 @@
+
+.address-item{
+    width: 408px;
+    height: 179px;
+    flex-shrink: 0;
+    margin: 0px 5px; 
+
+    border-radius: 10px;
+    background: #FFF;
+} 
+
+.address-name{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.map-url{
+    color: #0062D5;
+    font-family: Gilroy;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+
+.address{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+} 
+
+.time{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.phone{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
