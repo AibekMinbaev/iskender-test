@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+Main page implementation of website in React given as a test for vacancy application. Take a look at a final deployed page here: https://iskender.netlify.app/
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
