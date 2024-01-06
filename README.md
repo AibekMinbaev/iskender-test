@@ -1,6 +1,6 @@
-Main page implementation of website in React given as a test for vacancy application. Take a look at a final deployed page here: https://iskender.netlify.app/
-
-
+Main page implementation of website in React according to Figma design. 
+Task was given as a test for vacancy application to code the main page. 
+Take a look at a final deployed page here: https://iskender.netlify.app/
 
 ## Getting Started with Create React App
 
